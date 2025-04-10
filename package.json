@@ -1,0 +1,23 @@
+{
+  "name": "shopeasy",
+  "version": "1.0.0",
+  "description": "Ecommerce App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web20dsn20/shopeasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web20dsn20/shopeasy/issues"
+  },
+  "homepage": "https://github.com/web20dsn20/shopeasy#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
